@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Olivier Van D'huynslager, (Design Museum Gent)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
 }
